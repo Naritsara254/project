@@ -4,7 +4,6 @@ matplotlib
 sklearn
 seaborn
 streamlit>0.60.0
-opencv-python-headless
 plotly==5.9.0
 openpyxl
 
